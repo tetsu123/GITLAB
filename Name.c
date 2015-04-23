@@ -4,6 +4,6 @@
 int main()
 {
 	printf("*********************\n");
-	printf("Book\n");
+	printf("Booky\n");
 	printf("*********************\n");
 }
