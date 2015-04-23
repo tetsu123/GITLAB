@@ -4,6 +4,6 @@
 int main()
 {
 	printf("*********************\n");
-	printf("Max\n");
+	printf("Ball\n");
 	printf("*********************\n");
 }
